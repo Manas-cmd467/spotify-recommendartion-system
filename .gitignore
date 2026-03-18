@@ -174,3 +174,5 @@ cython_debug/
 .venv/
 
 /transformer.joblib
+data/User Listening History.csv
+data/Music Info.csv
